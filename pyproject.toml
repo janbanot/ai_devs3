@@ -1,0 +1,9 @@
+[project]
+name = "ai-devs3"
+version = "0.1.0"
+description = "AI_devs3 course assignments"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.54.3",
+]

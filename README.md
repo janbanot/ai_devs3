@@ -1,2 +1,2 @@
-# ai_devs3
-AI Devs 3
+# Description
+AI Devs 3 course assignments - [URL](https://www.aidevs.pl/)
